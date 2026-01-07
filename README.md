@@ -1,6 +1,6 @@
 # Tradutor de Artigos Técnicos com AzureAI
 
-Projeto do bootcamp DIO para o Microsoft Certification Challenge #1 (AI-102). A aplicação em Python extrai conteúdo de páginas da web e traduz para português usando o Azure Cognitive Services Translator API, gerando um arquivo Markdown organizado.
+Projeto do bootcamp DIO para o Microsoft Certification Challenge #5 (AI-102). A aplicação em Python extrai conteúdo de páginas da web e traduz para português usando o Azure Cognitive Services Translator API, gerando um arquivo Markdown organizado.
 
 ## Funcionalidades
 - Extrai títulos, parágrafos, listas e citações via seletores CSS (h1, h2, h3, p, li, blockquote).
@@ -55,3 +55,4 @@ python main.py
 
 ## Tópicos
 python, azure, rest-api, ia, azureai
+
